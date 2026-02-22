@@ -1,0 +1,50 @@
+📘 Progress Report — Week 1 (Day 1–2)
+
+Frontend + Authentication Completed
+
+Vite + React + TypeScript setup
+
+Clean folder structure
+
+React Router v6 configured
+
+Pages created (Landing, Login, Dashboard)
+
+ProtectedRoute implemented
+
+Firebase project created
+
+Google Sign-In enabled
+
+AuthContext built with loading state
+
+Login / Logout working
+
+Dashboard shows user email
+
+Route protection functioning correctly
+
+Status:
+App runs locally with secure frontend authentication.
+
+📘 Progress Report — Week 1 (Day 3)
+
+Backend Setup Completed
+
+Express server initialized
+
+Installed express, cors, mongoose, dotenv
+
+Backend folder structure created
+
+/health route implemented and tested
+
+Root .gitignore properly configured
+
+Removed node_modules from Git tracking
+
+Added .env File for api protection
+
+Status:
+Backend server running successfully on port 5000.
+Project ready for Firebase token verification middleware.
